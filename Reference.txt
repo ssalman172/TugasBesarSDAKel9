@@ -1,6 +1,13 @@
+== Kalkulator ==
 https://www.geeksforgeeks.org/expression-tree/
 https://www.sanfoundry.com/java-program-implement-expression-tree-algorithm/
 https://www.sanfoundry.com/java-program-construct-expression-tree-infix-expression/
 https://www.sanfoundry.com/cpp-program-construct-expression-tree-infix-expression/
 http://bwahyudi.staff.gunadarma.ac.id/Downloads ==> CTRL + F ("matematika")
 https://www.homeworklib.com/questions/750743/programming-assignment-2-rpn-calculator-infix-to (Penjelasan terkait ekspresi prefix 'Polandia') 
+
+== Find & Replace ==
+https://codeforwin.org/2018/02/c-program-find-and-replace-a-word-in-file.html
+https://www.programiz.com/c-programming/library-function/string.h/strcat
+https://www.tutorialspoint.com/c_standard_library/c_function_strstr.htm
+Source code menghitung jumlah kata dari Pak Lukman H.

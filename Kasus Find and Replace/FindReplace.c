@@ -18,7 +18,6 @@ MATA KULIAH STRUKTUR DATA ALGORITMA
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <errno.h>
 
 #include "coord.h"
 #define FILE_MAX_WORD 1000
